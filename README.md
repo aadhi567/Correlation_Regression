@@ -1,8 +1,7 @@
-# Correlation and regression for data analysis
+# EX NO:3 Correlation and regression for data analysis
 
-# Name: AADHITHAN B 
-# REGISTER NO: 212224040001
-# date: 14/03/2025
+Name: AADHITHAN B 
+REGISTER NO: 212224040001
 
 # Aim : 
 
